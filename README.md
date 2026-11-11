@@ -73,3 +73,4 @@ export default defineConfig([
 ])
 
 ```
+# shop-ease-1
